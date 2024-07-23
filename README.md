@@ -1,7 +1,5 @@
 ## Theory of information and encoding
 
----
-These were written while i have studied at NULP of Ukraine.
 
 ---
 - [ Hamming Encoder ](https://github.com/verityafter/theofi/blob/master/hamming/encoder.c)
