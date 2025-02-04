@@ -3,13 +3,13 @@
 
 # Logic Circuits
 ### Encoder
-- [`.circ` file](./encoder.circ)
+- [`.circ` file](../assets/logisim/hamming_encoder.circ)
 
 
 ![hamming coder](../assets/img/hamming_coder.png)
 
 ### Decoder
-- [`.circ` file](./decoder.circ)
+- [`.circ` file](../assets/logisim/hamming_decoder.circ)
 
 
 ![hamming coder](../assets/img/hamming_decoder.png)

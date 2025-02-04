@@ -4,17 +4,17 @@
 # Logic Circuits
 
 ### Encoder
-- [`.circ` file](./encoder.circ)
+- [`.circ` file](../assets/logisim/cyclic_encoder.circ)
 
 
 ![cyclic encoder](../assets/img/cyclic_encoder.png)
 
 ### Decoder
-- [`.circ` file](./decoder.circ)
+- [`.circ` file](../assets/logisim/cyclic_decoder.circ)
 
 
 ![cyclic decoder](../assets/img/cyclic_decoder.png)
 
 # Algorithm implementation in C Language
-- [Encoder](./encoder.c)
-- [Decoder](./decoder.c)
+- [Encoder](../encoder.c)
+- [Decoder](../decoder.c)

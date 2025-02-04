@@ -6,7 +6,7 @@
 > Implemented in a single circuit, just for demonstration. It can be easily separated though.
 > Outputs from encoder are just connected in place to the decoder inputs.
 
-- [`.circ` file](./encoder_decoder.circ)
+- [`.circ` file](../assets/logisim/iterative_encoder_decoder.circ)
 
 
 ![iterative coder/decoder](../assets/img/iterative_coder_decoder.png)
