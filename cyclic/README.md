@@ -7,7 +7,7 @@
 - [`.circ` file](./encoder.circ)
 
 
-![cyclic encoder](../assets/cyclic_coder.png)
+![cyclic encoder](../assets/cyclic_encoder.png)
 
 ### Decoder
 - [`.circ` file](./decoder.circ)
