@@ -9,7 +9,7 @@
 - [`.circ` file](./encoder_decoder.circ)
 
 
-![iterative coder/decoder](../assets/iterative_coder_decoder.png)
+![iterative coder/decoder](../assets/img/iterative_coder_decoder.png)
 
 
 # Algorithm implementation in C Language

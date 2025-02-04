@@ -6,13 +6,13 @@
 - [`.circ` file](./encoder.circ)
 
 
-![hamming coder](../assets/hamming_coder.png)
+![hamming coder](../assets/img/hamming_coder.png)
 
 ### Decoder
 - [`.circ` file](./decoder.circ)
 
 
-![hamming coder](../assets/hamming_decoder.png)
+![hamming coder](../assets/img/hamming_decoder.png)
 
 # Algorithm implementation in C Language
 - [Encoder](./encoder.c)
